@@ -1,0 +1,7 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\BasicConsoleII\BasicConsoleII\bin\Debug\BasicConsoleII.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\BasicConsoleII\BasicConsoleII\bin\Debug\BasicConsoleII.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\BasicConsoleII\BasicConsoleII\bin\Debug\BasicConsoleII.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\BasicConsoleII\BasicConsoleII\obj\Debug\BasicConsoleII.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\BasicConsoleII\BasicConsoleII\obj\Debug\BasicConsoleII.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\BasicConsoleII\BasicConsoleII\obj\Debug\BasicConsoleII.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\BasicConsoleII\BasicConsoleII\obj\Debug\BasicConsoleII.pdb

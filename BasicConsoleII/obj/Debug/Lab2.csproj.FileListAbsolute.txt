@@ -1,0 +1,7 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 2\Lab2\Lab2\obj\Debug\Lab2.pdb
